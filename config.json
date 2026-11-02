@@ -1,0 +1,21 @@
+{
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "font": "assets/fonts/Poppins-Bold.ttf",
+  "seconds_per_word": 0.7,
+  "min_chunk_seconds": 1.5,
+  "caption_y": 0.60,
+  "caption_size": 0.085,
+  "hud_seconds": 4.5,
+  "end_card_seconds": 5.0,
+  "music_volume": 0.35,
+  "colors": {
+    "text": "#FFFFFF",
+    "highlight": "#C6F432",
+    "red": "#E5484D",
+    "cyan": "#3CC8E8",
+    "amber": "#F2A93B",
+    "muted": "#9A9A9A"
+  }
+}
